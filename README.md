@@ -156,7 +156,7 @@ Because everything is loaded dynamically, adding new albums never requires editi
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Muhammad-Alii512/TuneHub-Music-Player.git
+https://github.com/muhammadali1512/TuneHub-Music-Player.git
 ```
 
 ---
