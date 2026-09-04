@@ -156,7 +156,7 @@ Because everything is loaded dynamically, adding new albums never requires editi
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Muhammad-Alii512/TuneHub-Music-Player.git
+https://github.com/muhammadali1512/TuneHub-Music-Player.git
 ```
 
 ---
@@ -228,7 +228,7 @@ This project is created **only for educational and learning purposes** and is in
 
 If you are an artist, copyright owner, or authorized representative and would like any music included in this repository to be removed, please contact me by email.
 
-📧 **Email:** muhammadali2251214@gmail.com
+📧 **Email:** muhammadali66192@gmail.com
 
 After receiving a valid request, I will remove the requested content from this repository as soon as possible.
 
@@ -239,7 +239,7 @@ After receiving a valid request, I will remove the requested content from this r
 **Muhammad Ali**
 
 GitHub:  
-https://github.com/Muhammad-Alii512
+https://github.com/muhammadali1512
 
 ---
 
