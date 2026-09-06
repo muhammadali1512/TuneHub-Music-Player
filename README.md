@@ -1,4 +1,4 @@
-# 🎵 TuneHub Music Player
+# TuneHub Music Player
 
 A clean, responsive, and dynamic music player built with **HTML, CSS, and  JavaScript**.
 
@@ -6,22 +6,22 @@ TuneHub automatically detects albums from the `songs` directory, loads playlists
 
 ---
 
-# 🌟 Features
+# Features
 
-- 🎵 Dynamic album detection
-- 🎧 Play & Pause music
-- ⏮ Previous / Next controls
-- 📂 Dynamic playlist loading
-- 🎚 Interactive seek bar
-- 🔊 Volume control
-- 🔇 Mute / Unmute
-- 📱 Responsive design
-- ⚡ Built using pure HTML, CSS & JavaScript
-- 🎨 Clean Spotify-inspired interface
+-  Dynamic album detection
+-  Play & Pause music
+-  Previous / Next controls
+-  Dynamic playlist loading
+-  Interactive seek bar
+-  Volume control
+-  Mute / Unmute
+-  Responsive design
+-  Built using pure HTML, CSS & JavaScript
+-  Clean Spotify-inspired interface
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 TuneHub/
@@ -61,7 +61,7 @@ TuneHub/
 
 ---
 
-# 🎼 How to Add More Albums
+# How to Add More Albums
 
 Adding a new album to TuneHub is very simple.
 
@@ -120,7 +120,7 @@ songs/
         Bones.mp3
 ```
 
-✅ That's it!
+-- That's it!
 
 No JavaScript modifications are required.
 
@@ -128,7 +128,7 @@ TuneHub will automatically detect the new album and display it on the homepage.
 
 ---
 
-# ⚙️ How TuneHub Works
+# How TuneHub Works
 
 When the application starts, TuneHub automatically scans the `songs` directory.
 
@@ -151,7 +151,7 @@ Because everything is loaded dynamically, adding new albums never requires editi
 
 ---
 
-# 🚀 Getting Started
+#  Getting Started
 
 ## 1. Clone the Repository
 
@@ -194,7 +194,7 @@ Your browser will automatically open TuneHub.
 
 ---
 
-# 💻 Technologies Used
+#  Technologies Used
 
 - HTML5
 - CSS3
@@ -203,7 +203,7 @@ Your browser will automatically open TuneHub.
 
 ---
 
-# 🤝 Want to Contribute?
+#  Want to Contribute?
 
 Contributions are always welcome.
 
@@ -220,7 +220,7 @@ Fork the repository, make your changes, and submit a Pull Request.
 
 ---
 
-# 📜 Copyright Notice
+# Copyright Notice
 
 The songs included in this repository belong to their respective artists and copyright holders.
 
@@ -234,7 +234,7 @@ After receiving a valid request, I will remove the requested content from this r
 
 ---
 
-# 👨‍💻 Developer
+# Developer
 
 **Muhammad Ali**
 
@@ -243,7 +243,7 @@ https://github.com/muhammadali1512
 
 ---
 
-# ⭐ Support the Project
+# Support the Project
 
 If you enjoyed this project or found it helpful, please consider giving it a **⭐ Star** on GitHub.
 
